@@ -1,4 +1,4 @@
 streamlit
 requests
+pillow
 beautifulsoup4
-pandas
